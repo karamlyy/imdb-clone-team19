@@ -1,0 +1,33 @@
+body{
+    background-color: yellow;    
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-radius: 10px;
+    
+    
+}
+
+input{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+
+}
+
+
+.button{
+    background-color: black;
+    color: yellow;
+    font-size: 20px;
+}
+.button:hover{
+    color: black;
+    background-color: rgb(111, 111, 4);
+}
