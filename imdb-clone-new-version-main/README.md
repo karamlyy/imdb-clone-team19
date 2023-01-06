@@ -1,3 +1,11 @@
+open "imdb-clone-new-version-main", open terminal, type: "npm run start"
+
+open new terminal, type 'json-server -p 3001 imdb-clone-new-version-main/db.json'
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
